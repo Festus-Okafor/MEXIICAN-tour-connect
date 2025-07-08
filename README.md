@@ -7,9 +7,9 @@ This is website for a company that has positioned  itself as a leader in the tou
 
 this is the homepage image of the website.
 
-![./public/images](pexels-souvenirpixels-1549121.jpg)
 
 
-https://github.com/Festus-Okafor/MEXIICAN-tour-connect/blob/main/public/images/pexels-souvenirpixels-1549121.jpg
+
+![images](https://github.com/Festus-Okafor/MEXIICAN-tour-connect/blob/main/public/images/pexels-souvenirpixels-1549121.jpg)
 
 # MEXIICAN-tour-connect
