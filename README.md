@@ -12,4 +12,6 @@ this is the homepage image of the website.
 
 ![images](https://github.com/Festus-Okafor/MEXIICAN-tour-connect/blob/main/public/images/pexels-souvenirpixels-1549121.jpg)
 
+![images](https://github.com/Festus-Okafor/MEXIICAN-tour-connect/blob/main/public/images/pexels-thishanabee-3642718.jpg)
+
 # MEXIICAN-tour-connect
